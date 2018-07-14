@@ -1,6 +1,6 @@
 # Christmas Tree OS
 
-##Screen Shot
+## Screen Shot
 
 ![Tree OS!!](tree.png)
 
